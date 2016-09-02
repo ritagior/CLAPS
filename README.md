@@ -2,7 +2,7 @@
 Cluster Analysis to merge Protein cystalS
 
 This is a open source code to merge protein crystals.
-Before to download please be sure to have installed:
+Before to download it please be sure to have installed:
 
 1) python2.7
 
