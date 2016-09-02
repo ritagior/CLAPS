@@ -12,4 +12,6 @@ Before to download please be sure to have installed:
 
 USAGE:
 
-python ./claps.py -i XSCALA.LP -o dendrogram.pdf
+python ./claps.py -i XSCALE.LP -o dendrogram.pdf
+
+Reference: Giordano, R., Leal, R. M. F., Bourenkov, G. P., McSweeney, S. & Popov, A. N. (2012). Acta Cryst. D68, 649–658.
